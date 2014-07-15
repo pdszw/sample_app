@@ -26,6 +26,7 @@ group :test do
     gem 'factory_girl_rails', '4.2.0'
     gem 'cucumber-rails', '1.4.0', :require => false
     gem 'database_cleaner', github: 'bmabey/database_cleaner'
+    gem 'debugger'
 end
 
 gem 'sass-rails', '4.0.1'
